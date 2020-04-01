@@ -1,1 +1,4 @@
 vikit_py/build
+vikit_common/build
+vikit_common/lib
+vikit_common/bin
